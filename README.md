@@ -2,6 +2,9 @@
 
 Create a mobile app for a weather forecaster app that would allow users to see the weather forecasts.
 
+![alt text](https://github.com/KutuGondrong/weather/blob/main/image/home.png)
+![alt text](https://github.com/KutuGondrong/weather/blob/main/image/detail.png)
+
 ## The system should consist of 2 pages:
 - A weather-list page that shows weather forecasts for the next few days.
 - A weather-details page that consists of detailed information about the weather.
