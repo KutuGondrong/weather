@@ -38,7 +38,7 @@ Test (iOS):
     flutter build ios -t lib/main.dart
 
 
-[https://www.kutugondrong.com/](https://www.kutugondrong.com/)
+[https://blog.istimewaa.com/](https://blog.istimewaa.com/)
 
 
 ![alt text](https://github.com/KutuGondrong/weather/blob/main/image/home.png)
